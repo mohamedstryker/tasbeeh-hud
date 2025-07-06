@@ -93,7 +93,7 @@ Mohamed Stryker
 
 ### 📝 الرخصة
 
-MIT License – مفتوح المصدر ومتاح للاستخدام والتعديل.
+MIT License – مفتوح المصدر ومتاح للاستخدام والتعديل , يرجي التعديل والتطوير جزاكم الله خيراً يا شبابنا
 
 ---
 
@@ -185,4 +185,4 @@ Mohamed Stryker
 
 ### 📃 License
 
-MIT License – Free and open-source for personal or commercial use.
+MIT License – Free and open-source for personal or commercial use - please edit and develop if you want share some benefits!
